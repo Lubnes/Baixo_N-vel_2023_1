@@ -1,0 +1,15 @@
+Passagem de parametros
+    Passagem por valor
+
+    void
+    multiplicar(int *x)
+{ // armazena o dado de onde eu quero chegar com o *
+    *x = *X * *X;
+}
+
+int main()
+{
+    int t = 10;
+    multiplica(&t);
+    printf("%d\n", t); // saída: 100
+}

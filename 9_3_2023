@@ -1,0 +1,12 @@
+Poteiro->endereços
+
+    void
+    teste(char *ptr)
+{
+    *ptr = 'A';
+}
+int main()
+{
+    char b;
+    teste(&b);
+}

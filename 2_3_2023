@@ -1,0 +1,10 @@
+- Recomendação linux, editor de texto
+- Comentou comandos linux 
+- Explicação geral do decorrer do curso 
+    pwd, mkdir 
+
+To compile
+
+    gcc 2_3_2023.c
+    ./a.exe
+    gcc -o vUm.x mainUm.c

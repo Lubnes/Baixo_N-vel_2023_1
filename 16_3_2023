@@ -1,0 +1,3 @@
+*vetor++        --> encontra e depois incrementa o endereço
+*(vetor++)      --> Incrementa e depois encontra
+
